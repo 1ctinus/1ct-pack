@@ -15,6 +15,9 @@
 "file": {
 "iconPath": "./../images/default.png",
 },
+"sheets": {
+"iconPath": "./../images/sheets.png",
+},
 "py": {
 "iconPath": "./../images/py.png",
 },
@@ -762,7 +765,11 @@
 "webp": "img",
 "eps": "img",
 "jsx": "react",
-"tsx": "react-ts"
+"tsx": "react-ts",
+"xlsx": "sheets",
+"xls": "sheets",
+"csv": "sheets",
+"tsv": "sheets",
 },
 "languageIds": {
 "vue": "vue",
