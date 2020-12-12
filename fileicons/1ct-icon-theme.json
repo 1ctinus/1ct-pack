@@ -12,6 +12,9 @@
 "md": {
 "iconPath": "./../images/md.png",
 },
+"mdx": {
+"iconPath": "./../images/mdx.png",
+},
 "eslint": {
 "iconPath": "./../images/eslint.png",
 },
@@ -701,6 +704,7 @@
 "txt": "text",
 "doc": "text",
 "md": "md",
+"mdx": "mdx",
 "odt": "text",
 "pdf": "pdf",
 "erl": "erl",
