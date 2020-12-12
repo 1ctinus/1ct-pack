@@ -182,10 +182,16 @@
 },
 "1ct": {
 "iconPath": "./../images/1ct.png",
- },
- "lib": {
+},
+"lib": {
 "iconPath": "./../images/lib.png",
- },
+},
+"react": {
+  "iconPath": "./../images/react.png",
+  },
+"react-ts": {
+"iconPath": "./../images/react-ts.png",
+},
 "node": {
 "iconPath": "./../images/node.png",
 },
@@ -413,6 +419,8 @@
 "errors": "f-alert",
 "alerts": "f-alert",
 "alert": "f-alert",
+"event": "f-alert",
+"events": "f-alert",
 "css": "f-css",
 "stylesheet": "f-css",
 "stylesheets": "f-css",
@@ -547,6 +555,8 @@
 "errors": "fo-alert",
 "alerts": "fo-alert",
 "alert": "fo-alert",
+"event": "fo-alert",
+"events": "fo-alert",
 "css": "fo-css",
 "stylesheet": "fo-css",
 "stylesheets": "fo-css",
@@ -729,6 +739,8 @@
 "raw": "img",
 "webp": "img",
 "eps": "img",
+"jsx": "react",
+"tsx": "react-ts"
 },
 "languageIds": {
 "git": "git",
@@ -750,6 +762,7 @@
 "typescript": "typescript",
 "pug": "pug",
 "sass": "sass",
+"javascriptreact": "react",
 },
  "fileNames": {
 "license":"info",
