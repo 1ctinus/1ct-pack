@@ -72,6 +72,9 @@
 "rs": {
 "iconPath": "./../images/rs.png",
 },
+"vue": {
+  "iconPath": "./../images/vue.png",
+  },
 "cbl": {
 "iconPath": "./../images/cbl.png",
 },
@@ -698,6 +701,7 @@
 "yaml":"yaml",
 "rar":"rar",
 "sass":"sass",
+"vue":"vue",
 "pug":"pug",
 "cxx":"cpp",
 "zip":"zip",
@@ -761,6 +765,9 @@
 "tsx": "react-ts"
 },
 "languageIds": {
+"vue": "vue",
+"vue-postcss": "vue",
+"vue-html": "vue",
 "git": "git",
 "git-commit": "git",
 "git-rebase": "git",
