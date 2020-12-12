@@ -213,6 +213,9 @@
 "node": {
 "iconPath": "./../images/node.png",
 },
+"haxe": {
+"iconPath": "./../images/haxe.png",
+},
 "f-cs": {
 "iconPath": "./../images/f-cs.png",
 },
@@ -797,6 +800,8 @@
 "xls": "sheets",
 "csv": "sheets",
 "tsv": "sheets",
+"hx": "haxe",
+"hxml": "haxe",
 },
 "languageIds": {
 "vue": "vue",
@@ -853,6 +858,7 @@
 "haxe.type": "haxe",
 "haxe.argument": "haxe",
 "Haxe AST dump": "haxe",
+"hxml": "haxe",
 },
 "fileNames": {
 "license":"info",
