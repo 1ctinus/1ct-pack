@@ -123,6 +123,9 @@
 "sass": {
 "iconPath": "./../images/sass.png",
 },
+"svelte": {
+"iconPath": "./../images/svelte.png",
+},
 "pug": {
 "iconPath": "./../images/pug.png",
 },
@@ -732,6 +735,7 @@
 "pug":"pug",
 "cxx":"cpp",
 "zip":"zip",
+"svelte": "svelte",
 "vscodeignore": "vsc",
 "download":"download",
 "gitignore":"gitignore",
@@ -920,5 +924,6 @@
 ".babelrc.json": "babel",
 "babel.config.json": "babel",
 "babel.config.js": "babel",
+"svelte.config.js": "svelte",
 } 
 }
