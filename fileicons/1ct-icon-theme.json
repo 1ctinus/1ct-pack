@@ -12,6 +12,9 @@
 "md": {
 "iconPath": "./../images/md.png",
 },
+"eslint": {
+"iconPath": "./../images/eslint.png",
+},
 "file": {
 "iconPath": "./../images/default.png",
 },
@@ -901,5 +904,13 @@
 "webpack.dist.ts": "webpack",
 "webpackfile.js": "webpack",
 "webpackfile.ts": "webpack",
+".eslintrc.js": "eslint",
+".eslintrc.cjs": "eslint",
+".eslintrc.yaml": "eslint",
+".eslintrc.yml": "eslint",
+".eslintrc.json": "eslint",
+".eslintrc": "eslint",
+".eslintignore": "eslint",
+".eslintcache": "eslint",
 } 
 }
