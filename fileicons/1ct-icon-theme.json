@@ -343,11 +343,17 @@
 "iconPath": "./../images/fo-cloud.png",
 },
 "f-user": {
-  "iconPath": "./../images/f-user.png",
-  },
-  "fo-user": {
-  "iconPath": "./../images/fo-user.png",
-  },
+"iconPath": "./../images/f-user.png",
+},
+"fo-user": {
+"iconPath": "./../images/fo-user.png",
+},
+"f-sass": {
+"iconPath": "./../images/f-sass.png",
+},
+"fo-sass": {
+"iconPath": "./../images/fo-sass.png",
+},
 },
 "folderNames": {
 "lib": "lib",
@@ -497,6 +503,10 @@
 "mods": "f-user",
 "admin": "f-user",
 "admins": "f-user",
+"sass": "f-sass",
+"_sass": "f-sass",
+"scss": "f-sass",
+"_scss": "f-sass",
 },
 "folderNamesExpanded": {
 "py": "fo-py",
@@ -639,6 +649,10 @@
 "mods": "fo-user",
 "admin": "fo-user",
 "admins": "fo-user",
+"sass": "fo-sass",
+"_sass": "fo-sass",
+"scss": "fo-sass",
+"_scss": "fo-sass",
 },
 "folder": "folder",
 "folderExpanded": "open",
@@ -681,7 +695,7 @@
 "odt": "text",
 "pdf": "pdf",
 "erl": "erl",
-"docx": "text",
+"docx": "pdf",
 "mp4": "vid",
 "mov": "vid",
 "woff": "font",
@@ -704,6 +718,7 @@
 "yaml":"yaml",
 "rar":"rar",
 "sass":"sass",
+"scss":"sass",
 "vue":"vue",
 "pug":"pug",
 "cxx":"cpp",
