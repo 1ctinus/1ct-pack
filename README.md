@@ -18,7 +18,9 @@ This pack also falls under the MIT license.
 ## Contact me
 
 For Buisness Inqueries, go PM me at u/1ctinus on Reddit™.
+## Credits
 
+Everything made by 1ctinus, help from Dave. Thanks for Dave for teaching me git.
 **Enjoy!**
 </body>
 </html>
