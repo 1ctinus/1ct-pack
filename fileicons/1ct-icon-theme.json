@@ -60,6 +60,9 @@
 "css": {
 "iconPath": "./../images/css.png",
 },
+"babel": {
+"iconPath": "./../images/babel.png",
+},
 "ps1": {
 "iconPath": "./../images/ps1.png",
 },
@@ -912,5 +915,10 @@
 ".eslintrc": "eslint",
 ".eslintignore": "eslint",
 ".eslintcache": "eslint",
+".babelrc": "babel",
+".babelrc.js": "babel",
+".babelrc.json": "babel",
+"babel.config.json": "babel",
+"babel.config.js": "babel",
 } 
 }
