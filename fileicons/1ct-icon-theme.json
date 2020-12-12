@@ -676,6 +676,8 @@
 "vscodeignore": "vsc",
 "download":"download",
 "gitignore":"gitignore",
+"gitattributes":"git",
+"gitmodules":"git",
 "ico":"ico",
 "dll":"cog",
 "config": "cog",
