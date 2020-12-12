@@ -156,11 +156,20 @@
 "git": {
 "iconPath": "./../images/git.png",
 },
+"next": {
+"iconPath": "./../images/next.png",
+},
 "f-js": {
 "iconPath": "./../images/f-js.png",
 },
 "fo-js": {
 "iconPath": "./../images/fo-js.png",
+},
+"f-next": {
+"iconPath": "./../images/f-next.png",
+},
+"fo-next": {
+"iconPath": "./../images/fo-next.png",
 },
 "f-py": {
 "iconPath": "./../images/f-py.png",
@@ -472,6 +481,7 @@
 "packages": "f-packages",
 "dist": "f-bin",
 "out": "f-bin",
+".next": "f-next",
 "build": "f-bin",
 "release": "f-bin",
 "bin": "f-bin",
@@ -617,6 +627,7 @@
 "build": "fo-bin",
 "release": "fo-bin",
 "bin": "fo-bin",
+".next": "fo-next",
 "doc": "fo-docs",
 "docs": "fo-docs",
 "documents": "fo-docs",
@@ -720,6 +731,7 @@
 "properties": "mc",
 "prop": "cog",
 "settings": "cog",
+"env": "cog",
 "option": "cog",
 "props": "cog",
 "toml": "cog",
@@ -816,6 +828,7 @@
 "changelog": "info",
 "makefile": "cog",
 "settings": "cog",
+"next.config.js": "next",
 "1ct-icon-theme.json":"1ct",
 "gradle.properties": "gradle",
 "gradlew": "gradle",
