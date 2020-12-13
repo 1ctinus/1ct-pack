@@ -18,6 +18,12 @@
 "mdx": {
 "iconPath": "./../images/mdx.png",
 },
+"npm": {
+"iconPath": "./../images/npm.png",
+},
+"npmignore": {
+"iconPath": "./../images/npmignore.png",
+},
 "eslint": {
 "iconPath": "./../images/eslint.png",
 },
@@ -233,6 +239,9 @@
 },
 "vsc": {
 "iconPath": "./../images/vsc.png",
+},
+"vscignore": {
+"iconPath": "./../images/vscignore.png",
 },
 "vs": {
 "iconPath": "./../images/vs.png",
@@ -698,6 +707,11 @@
 "jar": "java",
 "java": "java",
 "js": "js",
+"mjs": "js",
+"ejs": "html",
+"node": "node",
+"npmrc": "npm",
+"npmignore": "npmignore",
 "cpp": "cpp",
 "cs": "cs",
 "c": "c",
@@ -760,7 +774,7 @@
 "cxx":"cpp",
 "zip":"zip",
 "svelte": "svelte",
-"vscodeignore": "vsc",
+"vscodeignore": "vscignore",
 "download":"download",
 "gitignore":"gitignore",
 "gitattributes":"git",
