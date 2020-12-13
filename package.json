@@ -1,13 +1,16 @@
 {
   "name": "1ct-pack",
   "displayName": "1ct Pack",
-  "description": "16x16 icon pack",
-  "version": "0.4.2",
+  "description": "Just trying to get by",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.51.0"
   },
   "categories": [
     "Other"
+  ],
+  "activationEvents": [
+    "onCommand:1ct-pack.helloWorld"
   ],
   "main": "./extension.js",
   "contributes": {
