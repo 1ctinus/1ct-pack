@@ -4,15 +4,11 @@
   "description": "16x16 icon pack",
   "version": "0.4.2",
   "engines": {
-    "vscode": "^1.51.0"
+    "vscode": "^0.51.0"
   },
   "categories": [
     "Other"
   ],
-  "activationEvents": [
-    "onCommand:1ct-pack.helloWorld"
-  ],
-  "main": "./extension.js",
   "contributes": {
     "iconThemes": [
       {
