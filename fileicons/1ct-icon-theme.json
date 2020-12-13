@@ -157,8 +157,8 @@
 "iconPath": "./../images/download.png",
 },
 "gradle": {
-  "iconPath": "./../images/gradle.png",
-  },
+"iconPath": "./../images/gradle.png",
+},
 "zip": {
 "iconPath": "./../images/zip.png",
 },
@@ -170,6 +170,9 @@
 },
 "git": {
 "iconPath": "./../images/git.png",
+},
+"next": {
+"iconPath": "./../images/next.png",
 },
 "f-js": {
 "iconPath": "./../images/f-js.png",
@@ -369,6 +372,12 @@
 "fo-sass": {
 "iconPath": "./../images/fo-sass.png",
 },
+"f-next": {
+"iconPath": "./../images/f-next.png",
+},
+"fo-next": {
+"iconPath": "./../images/fo-next.png",
+},
 },
 "folderNames": {
 "lib": "lib",
@@ -522,6 +531,7 @@
 "_sass": "f-sass",
 "scss": "f-sass",
 "_scss": "f-sass",
+".next": "f-next",
 },
 "folderNamesExpanded": {
 "py": "fo-py",
@@ -668,6 +678,7 @@
 "_sass": "fo-sass",
 "scss": "fo-sass",
 "_scss": "fo-sass",
+".next": "fo-next",
 },
 "folder": "folder",
 "folderExpanded": "open",
@@ -752,6 +763,7 @@
 "properties": "mc",
 "prop": "cog",
 "settings": "cog",
+"env": "cog",
 "option": "cog",
 "props": "cog",
 "toml": "cog",
@@ -929,5 +941,6 @@
 "babel.config.json": "babel",
 "babel.config.js": "babel",
 "svelte.config.js": "svelte",
+"next.config.js": "next",
 } 
 }
