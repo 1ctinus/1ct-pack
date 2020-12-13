@@ -15,6 +15,12 @@
 "mdx": {
 "iconPath": "./../images/mdx.png",
 },
+"npm": {
+"iconPath": "./../images/npm.png",
+},
+"npmignore": {
+"iconPath": "./../images/npmignore.png",
+},
 "eslint": {
 "iconPath": "./../images/eslint.png",
 },
