@@ -381,6 +381,9 @@
 "fo-next": {
 "iconPath": "./../images/fo-next.png",
 },
+"cshtml": {
+"iconPath": "./../images/cshtml.png",
+},
 },
 "folderNames": {
 "lib": "lib",
@@ -695,6 +698,7 @@
 "cpp": "cpp",
 "cs": "cs",
 "c": "c",
+"cshtml":"cshtml",
 "css": "css",
 "mp3": "audio",
 "wav": "audio",
