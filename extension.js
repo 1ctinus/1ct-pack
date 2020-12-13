@@ -8,6 +8,16 @@ const vscode = require('vscode');
 /**
  * @param {vscode.ExtensionContext} context
  */
+function activate(context) {
+
+	// Use the console to output diagnostic information (console.log) and errors (console.error)
+	// This line of code will only be executed once when your extension is activated
+	console.log('Congratulations, your extension "1ct-pack" is now active!');
+	let disposable = vscode.commands.registerCommand('1ct-pack.helloWorld', function () {
+		vscode.window.showInformationMessage('Hello World from 1ct Pack!');});
+
+	context.subscriptions.push(disposable);
+}
 // @ts-ignore
 exports.activate = activate;
 
@@ -19,4 +29,3 @@ module.exports = {
 	activate,
 	deactivate
 }
-// [c:\Users\jtgc0\1ct-pack]: properties `activationEvents` and `main` must both be specified or must both be omitted
