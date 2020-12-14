@@ -781,6 +781,8 @@
 "cmd": "sh",
 "awk": "sh",
 "fish": "sh",
+"r": "r",
+"rmd": "r",
 "exe":"exe",
 "yaml":"yaml",
 "as": "yaml",
@@ -852,6 +854,7 @@
 "raw": "img",
 "webp": "img",
 "eps": "img",
+"hs": "haskell",
 "jsx": "react",
 "tsx": "react-ts",
 "xlsx": "sheets",
@@ -868,6 +871,8 @@
 "ics": "mail",
 },
 "languageIds": {
+"haskell": "haskell",
+".Rhistory": "r",
 "purescript": "purescript",
 "fsharp": "fs",
 "vue": "vue",
@@ -927,6 +932,7 @@
 "hxml": "haxe",
 },
 "fileNames": {
+".Rhistory": "r",
 ".mailmap": "mail",
 "license":"info",
 "package.json":"node",
