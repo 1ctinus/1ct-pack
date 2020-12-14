@@ -27,6 +27,9 @@
 "npmignore": {
 "iconPath": "./../images/npmignore.png",
 },
+"mail": {
+"iconPath": "./../images/mail.png",
+},
 "eslint": {
 "iconPath": "./../images/eslint.png",
 },
@@ -410,6 +413,7 @@
 },
 },
 "folderNames": {
+"json": "f-json",
 "lib": "lib",
 "libs": "lib",
 "library": "lib",
@@ -564,6 +568,7 @@
 ".next": "f-next",
 },
 "folderNamesExpanded": {
+"json": "fo-json",
 "py": "fo-py",
 "js": "fo-js",
 "javascript": "fo-js",
@@ -860,6 +865,7 @@
 "fsi": "fs",
 "fsproj": "fs",
 "nb": "mathematica",
+"ics": "mail",
 },
 "languageIds": {
 "purescript": "purescript",
@@ -921,6 +927,7 @@
 "hxml": "haxe",
 },
 "fileNames": {
+".mailmap": "mail",
 "license":"info",
 "package.json":"node",
 "package-lock.json":"node",
