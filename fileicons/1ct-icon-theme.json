@@ -9,8 +9,14 @@
 "vid": {
 "iconPath": "./../images/vid.png",
 },
+"r": {
+"iconPath": "./../images/r.png",
+},
 "adnois": {
 "iconPath": "./../images/adonis.png",
+},
+"haskell": {
+"iconPath": "./../images/haskell.png",
 },
 "fs": {
 "iconPath": "./../images/fs.png",
@@ -872,7 +878,8 @@
 },
 "languageIds": {
 "haskell": "haskell",
-".Rhistory": "r",
+"r": "r",
+"rsweave": "r",
 "purescript": "purescript",
 "fsharp": "fs",
 "vue": "vue",
