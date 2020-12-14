@@ -36,6 +36,12 @@
 "purescript": {
 "iconPath": "./../images/purescript.png",
 },
+"mathematica": {
+"iconPath": "./../images/mathematica.png",
+},
+"mint": {
+"iconPath": "./../images/mint.png",
+},
 "sheets": {
 "iconPath": "./../images/sheets.png",
 },
@@ -814,6 +820,7 @@
 "vcxproj.filters": "vs",
 "pure": "purescript",
 "purs": "purescript",
+"mint": "mint",
 "tif": "img",
 "tiff": "img",
 "psd": "img",
@@ -852,6 +859,7 @@
 "fsx": "fs",
 "fsi": "fs",
 "fsproj": "fs",
+"nb": "mathematica",
 },
 "languageIds": {
 "purescript": "purescript",
