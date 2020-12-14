@@ -9,6 +9,9 @@
 "vid": {
 "iconPath": "./../images/vid.png",
 },
+"adnois": {
+"iconPath": "./../images/adonis.png",
+},
 "fs": {
 "iconPath": "./../images/fs.png",
 },
@@ -29,6 +32,9 @@
 },
 "file": {
 "iconPath": "./../images/default.png",
+},
+"purescript": {
+"iconPath": "./../images/purescript.png",
 },
 "sheets": {
 "iconPath": "./../images/sheets.png",
@@ -766,6 +772,7 @@
 "fish": "sh",
 "exe":"exe",
 "yaml":"yaml",
+"as": "yaml",
 "rar":"rar",
 "sass":"sass",
 "scss":"sass",
@@ -805,6 +812,8 @@
 "vcxitems.filters": "vs",
 "vcxproj": "vs",
 "vcxproj.filters": "vs",
+"pure": "purescript",
+"purs": "purescript",
 "tif": "img",
 "tiff": "img",
 "psd": "img",
@@ -845,6 +854,7 @@
 "fsproj": "fs",
 },
 "languageIds": {
+"purescript": "purescript",
 "fsharp": "fs",
 "vue": "vue",
 "vue-postcss": "vue",
@@ -1004,5 +1014,7 @@
 "babel.config.js": "babel",
 "svelte.config.js": "svelte",
 "next.config.js": "next",
+".adonisrc.json": "adonis",
+"ace": "adonis",
 } 
 }
