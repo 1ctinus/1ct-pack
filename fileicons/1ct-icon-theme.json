@@ -3,6 +3,33 @@
 "folder": {
 "iconPath": "./../images/f.png",
 },
+"jupyter": {
+"iconPath": "./../images/jupyter.png",
+},
+"julia": {
+"iconPath": "./../images/julia.png"
+},
+"scheme": {
+"iconPath": "./../images/scheme.png"
+},
+"diff": {
+"iconPath": "./../images/diff.png"
+},
+"search": {
+"iconPath": "./../images/search.png"
+},
+"perl": {
+"iconPath": "./../images/perl.png",
+},
+"jinja": {
+"iconPath": "./../images/jinja.png",
+},
+"handlebars": {
+"iconPath": "./../images/handlebars.png",
+},
+"coffeescript": {
+"iconPath": "./../images/coffeescript.png"
+},
 "less": {
 "iconPath": "./../images/less.png",
 },
@@ -260,9 +287,6 @@
 },
 "1ct": {
 "iconPath": "./../images/1ct.png",
-},
-"lib": {
-"iconPath": "./../images/lib.png",
 },
 "react": {
 "iconPath": "./../images/react.png",
@@ -749,6 +773,20 @@
 "folderExpanded": "open",
 "file": "file",
 "fileExtensions": {
+"jinja": "jinja",
+"jinja2": "jinja",
+"j2": "jinja",
+"jinja-html": "jinja",
+"jl": "julia",
+"coffee": "coffeescript",
+"code-search": "search",
+"hbs": "handlebars",
+"mustache": "handlebars",
+"ss": "scheme",
+"scm": "scheme",
+"pm": "perl",
+"raku": "perl",
+"ipynb": "jupyter",
 "less": "less",
 "scala": "scala",
 "py": "py",
@@ -948,6 +986,18 @@
 "ics": "mail",
 },
 "languageIds": {
+"julia": "julia",
+"coffeescript": "coffeescript",
+"diff":"diff",
+"search-result": "search",
+"jinja": "jinja",
+"perl": "perl",
+"perl6": "perl",
+"aspnetcorerazor": "cshtml",
+"handlebars": "handlebars",
+"shaderlab": "3d",
+"scminput": "scheme",
+"jupyter": "jupyter",
 "clojure": "clojure",
 "dockerfile": "docker",
 "groovy": "groovy",
