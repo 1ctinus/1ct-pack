@@ -45,12 +45,18 @@
 "purescript": {
 "iconPath": "./../images/purescript.png",
 },
+"data": {
+"iconPath": "./../images/data.png",
+},
 "mathematica": {
 "iconPath": "./../images/mathematica.png",
 },
 "mint": {
 "iconPath": "./../images/mint.png",
 },
+"scala": {
+  "iconPath": "./../images/scala.png",
+  },
 "sheets": {
 "iconPath": "./../images/sheets.png",
 },
@@ -725,6 +731,7 @@
 "folderExpanded": "open",
 "file": "file",
 "fileExtensions": {
+"scala": "scala",
 "py": "py",
 "html": "html",
 "jar": "java",
@@ -787,6 +794,16 @@
 "cmd": "sh",
 "awk": "sh",
 "fish": "sh",
+"pdb": "data",
+"sql": "data",
+"pks": "data",
+"pkb": "data",
+"accdb": "data",
+"mdb": "data",
+"sqlite": "data",
+"pgsql": "data",
+"postgres": "data",
+"psql": "data",
 "r": "r",
 "rmd": "r",
 "exe":"exe",
@@ -877,6 +894,8 @@
 "ics": "mail",
 },
 "languageIds": {
+"scala": "scala",
+"sql": "data",
 "haskell": "haskell",
 "r": "r",
 "rsweave": "r",
