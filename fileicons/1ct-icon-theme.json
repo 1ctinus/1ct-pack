@@ -6,6 +6,9 @@
 "less": {
 "iconPath": "./../images/less.png",
 },
+"clojure": {
+"iconPath": "./../images/clojure.png",
+},
 "open": {
 "iconPath": "./../images/fo.png"
 },
@@ -45,6 +48,12 @@
 "eslint": {
 "iconPath": "./../images/eslint.png",
 },
+"groovy": {
+"iconPath": "./../images/groovy.png",
+},
+"docker": {
+"iconPath": "./../images/docker.png",
+},
 "file": {
 "iconPath": "./../images/default.png",
 },
@@ -64,8 +73,8 @@
 "iconPath": "./../images/mint.png",
 },
 "scala": {
-  "iconPath": "./../images/scala.png",
-  },
+"iconPath": "./../images/scala.png",
+},
 "sheets": {
 "iconPath": "./../images/sheets.png",
 },
@@ -130,8 +139,8 @@
 "iconPath": "./../images/rs.png",
 },
 "vue": {
-  "iconPath": "./../images/vue.png",
-  },
+"iconPath": "./../images/vue.png",
+},
 "cbl": {
 "iconPath": "./../images/cbl.png",
 },
@@ -256,8 +265,8 @@
 "iconPath": "./../images/lib.png",
 },
 "react": {
-  "iconPath": "./../images/react.png",
-  },
+"iconPath": "./../images/react.png",
+},
 "react-ts": {
 "iconPath": "./../images/react-ts.png",
 },
@@ -394,12 +403,12 @@
 "iconPath": "./../images/fo-app.png",
 },
 "f-servers": {
-  "iconPath": "./../images/f-servers.png",
-  },
-  "fo-servers": {
-  "iconPath": "./../images/fo-servers.png",
-  },
-  "f-game": {
+"iconPath": "./../images/f-servers.png",
+},
+"fo-servers": {
+"iconPath": "./../images/fo-servers.png",
+},
+"f-game": {
 "iconPath": "./../images/f-game.png",
 },
 "fo-game": {
@@ -761,11 +770,16 @@
 "wav": "audio",
 "ogg": "audio", 
 "json": "json", 
+"tsbuildinfo": "json",
+"json5": "json",
+"jsonl": "json",
+"ndjson": "json",
 "lua": "lua", 
 "cbl": "cbl", 
 "php": "php", 
 "ts": "ts",
 "kt": "kt",
+"groovy": "groovy",
 "png": "img",
 "gif": "img",
 "jpg": "img",
@@ -860,6 +874,16 @@
 "prefs": "cog",
 "xml":"xml",
 "xsl": "xml",
+"plist": "xml",
+"xsd": "xml",
+"dtd": "xml",
+"xslt": "xml",
+"resx": "xml",
+"iml": "xml",
+"xquery": "xml",
+"tmLanguage": "xml",
+"manifest": "xml",
+"project": "xml",
 "yml":"yaml",
 "git":"git",
 "csproj": "vs",
@@ -902,6 +926,11 @@
 "raw": "img",
 "webp": "img",
 "eps": "img",
+"clj": "clojure",
+"cljs": "clojure",
+"cljc": "clojure",
+"dockerignore": "docker",
+"dockerfile": "docker",
 "hs": "haskell",
 "jsx": "react",
 "tsx": "react-ts",
@@ -919,6 +948,9 @@
 "ics": "mail",
 },
 "languageIds": {
+"clojure": "clojure",
+"dockerfile": "docker",
+"groovy": "groovy",
 "less": "less",
 "code-runner-output": "runner",
 "xsl": "xml",
@@ -989,6 +1021,29 @@
 "hxml": "haxe",
 },
 "fileNames": {
+"dockerfile": "docker",
+"dockerfile.prod": "docker",
+"dockerfile.production": "docker",
+"Dockerfile.alpha": "docker",
+"Dockerfile.beta": "docker",
+"Dockerfile.stage": "docker",
+"Dockerfile.staging": "docker",
+"Dockerfile.dev": "docker",
+"Dockerfile.development": "docker",
+"Dockerfile.test": "docker",
+"Dockerfile.testing": "docker",
+"Dockerfile.web": "docker",
+"Dockerfile.worker": "docker",
+"docker-compose.yml": "docker",
+"docker-compose.yaml": "docker",
+"docker-compose.dev.yml": "docker",
+"docker-compose.local.yml": "docker",
+"docker-compose.ci.yml": "docker",
+"docker-compose.override.yml": "docker",
+"docker-compose.staging.yml": "docker",
+"docker-compose.prod.yml": "docker",
+"docker-compose.production.yml": "docker",
+"docker-compose.test.yml": "docker",
 ".Rhistory": "r",
 ".mailmap": "mail",
 "license":"info",
