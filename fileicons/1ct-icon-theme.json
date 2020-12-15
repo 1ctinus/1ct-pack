@@ -3,8 +3,14 @@
 "folder": {
 "iconPath": "./../images/f.png",
 },
+"less": {
+"iconPath": "./../images/less.png",
+},
 "open": {
 "iconPath": "./../images/fo.png"
+},
+"runner": {
+"iconPath": "./../images/runner.png"
 },
 "vid": {
 "iconPath": "./../images/vid.png",
@@ -734,6 +740,7 @@
 "folderExpanded": "open",
 "file": "file",
 "fileExtensions": {
+"less": "less",
 "scala": "scala",
 "py": "py",
 "html": "html",
@@ -852,6 +859,7 @@
 "toml": "cog",
 "prefs": "cog",
 "xml":"xml",
+"xsl": "xml",
 "yml":"yaml",
 "git":"git",
 "csproj": "vs",
@@ -911,6 +919,10 @@
 "ics": "mail",
 },
 "languageIds": {
+"less": "less",
+"code-runner-output": "runner",
+"xsl": "xml",
+"makefile": "cog",
 "hlsl": "3d",
 "scala": "scala",
 "sql": "data",
@@ -929,6 +941,7 @@
 "c": "c",
 "java": "java",
 "objective-c": "m",
+"objective-cpp": "m",
 "svg": "svg",
 "swift": "swift",
 "cpp": "cpp",
