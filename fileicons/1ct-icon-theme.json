@@ -42,6 +42,9 @@
 "file": {
 "iconPath": "./../images/default.png",
 },
+"3d": {
+"iconPath": "./../images/3d.png",
+},
 "purescript": {
 "iconPath": "./../images/purescript.png",
 },
@@ -794,6 +797,20 @@
 "cmd": "sh",
 "awk": "sh",
 "fish": "sh",
+"stl": "3d",
+"obj": "3d",
+"ac": "3d",
+"blend": "3d",
+"mesh": "3d",
+"mqo": "3d",
+"pmd": "3d",
+"pmx": "3d",
+"skp": "3d",
+"vac": "3d",
+"vdp": "3d",
+"vox": "3d",
+"hlsl": "3d",
+"cg": "3d",
 "pdb": "data",
 "sql": "data",
 "pks": "data",
@@ -894,6 +911,7 @@
 "ics": "mail",
 },
 "languageIds": {
+"hlsl": "3d",
 "scala": "scala",
 "sql": "data",
 "haskell": "haskell",
