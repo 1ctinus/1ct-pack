@@ -54,6 +54,12 @@
 "adnois": {
 "iconPath": "./../images/adonis.png",
 },
+"py2": {
+"iconPath": "./../images/py2.png",
+},
+"yarn": {
+"iconPath": "./../images/yarn.png",
+},
 "haskell": {
 "iconPath": "./../images/haskell.png",
 },
@@ -808,6 +814,8 @@
 "folderExpanded": "open",
 "file": "file",
 "fileExtensions": {
+"pyc": "py2",
+"whl": "py2",
 "jinja": "jinja",
 "jinja2": "jinja",
 "j2": "jinja",
@@ -1067,7 +1075,7 @@
 "go": "go",
 "csharp": "cs",
 "python": "py",
-"pip-requirements": "py",
+"pip-requirements": "py2",
 "html": "html",
 "javascript": "js",
 "typescript": "ts",
@@ -1107,6 +1115,17 @@
 "hxml": "haxe",
 },
 "fileNames": {
+".yarnrc": "yarn",
+"yarn.lock": "yarn",
+".yarnclean": "yarn",
+".yarn-integrity": "yarn",
+"yarn-error.log": "yarn",
+".yarnrc.yml": "yarn",
+".yarnrc.yaml": "yarn",
+"requirements.txt": "py2",
+"pipfile": "py2",
+".python-version": "py2",
+"manifest.in": "py2",
 "dockerfile": "docker",
 "dockerfile.prod": "docker",
 "dockerfile.production": "docker",
