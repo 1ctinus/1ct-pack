@@ -9,6 +9,12 @@
 "jsonconfig": {
 "iconPath": "./../images/jsonconfig.png",
 },
+"editorconfig": {
+"iconPath": "./../images/editorconfig.png",
+},
+"jsmap": {
+"iconPath": "./../images/jsmap.png",
+},
 "julia": {
 "iconPath": "./../images/julia.png"
 },
@@ -814,6 +820,8 @@
 "folderExpanded": "open",
 "file": "file",
 "fileExtensions": {
+"js.map": "jsmap",
+"mjs.map": "jsmap",
 "pyc": "py2",
 "whl": "py2",
 "jinja": "jinja",
@@ -877,6 +885,8 @@
 "txt": "text",
 "doc": "text",
 "md": "md",
+"markdown": "md",
+"rst": "md",
 "mdx": "mdx",
 "odt": "text",
 "pdf": "pdf",
@@ -1030,6 +1040,7 @@
 "ics": "mail",
 },
 "languageIds": {
+"editorconfig": "editorconfig",
 "julia": "julia",
 "coffeescript": "coffeescript",
 "diff":"diff",
@@ -1115,6 +1126,7 @@
 "hxml": "haxe",
 },
 "fileNames": {
+".editorconfig": "editorconfig",
 ".yarnrc": "yarn",
 "yarn.lock": "yarn",
 ".yarnclean": "yarn",
