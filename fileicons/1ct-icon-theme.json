@@ -30,6 +30,12 @@
 "perl": {
 "iconPath": "./../images/perl.png",
 },
+"bower": {
+"iconPath": "./../images/bower.png"
+},
+"assembly": {
+"iconPath": "./../images/assembly.png"
+},
 "jinja": {
 "iconPath": "./../images/jinja.png",
 },
@@ -820,6 +826,18 @@
 "folderExpanded": "open",
 "file": "file",
 "fileExtensions": {
+"asm": "assembly",
+"a51": "assembly",
+"inc": "assembly",
+"nasm": "assembly",
+"s": "assembly",
+"ms": "assembly",
+"agc": "assembly",
+"ags": "assembly",
+"aea": "assembly",
+"argus": "assembly",
+"mitigus": "assembly",
+"binsource": "assembly",
 "js.map": "jsmap",
 "mjs.map": "jsmap",
 "pyc": "py2",
@@ -1126,6 +1144,8 @@
 "hxml": "haxe",
 },
 "fileNames": {
+".bowerrc": "bower",
+"bower.json": "bower",
 ".editorconfig": "editorconfig",
 ".yarnrc": "yarn",
 "yarn.lock": "yarn",
