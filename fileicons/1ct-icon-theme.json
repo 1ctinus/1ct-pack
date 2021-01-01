@@ -282,6 +282,12 @@
 "fo-tools": {
 "iconPath": "./../images/fo-tools.png",
 },
+"f-vue": {
+"iconPath": "./../images/f-vue.png",
+},
+"fo-vue": {
+"iconPath": "./../images/fo-vue.png",
+},
 "f-lib": {
 "iconPath": "./../images/f-lib.png",
 },
@@ -659,6 +665,7 @@
 "utils": "f-tools",
 "utility": "f-tools",
 "utilities": "f-tools",
+"vue": "f-vue",
 
 },
 "folderNamesExpanded": {
@@ -821,6 +828,7 @@
 "vendor": "fo-lib",
 "vendors": "fo-lib",
 "third-party": "fo-lib",
+"vue": "fo-vue",
 },
 "folder": "folder",
 "folderExpanded": "open",
@@ -871,6 +879,8 @@
 "cpp": "cpp",
 "cs": "cs",
 "c": "c",
+"i": "c",
+"mi": "c",
 "cshtml":"cshtml",
 "css": "css",
 "mp3": "audio",
