@@ -21,6 +21,18 @@
 "scheme": {
 "iconPath": "./../images/scheme.png"
 },
+"cmake": {
+"iconPath": "./../images/cmake.png"
+},
+"dart": {
+"iconPath": "./../images/dart.png"
+},
+"angular": {
+"iconPath": "./../images/angular.png"
+},
+"changelog": {
+"iconPath": "./../images/changelog.png"
+},
 "diff": {
 "iconPath": "./../images/diff.png"
 },
@@ -834,6 +846,8 @@
 "folderExpanded": "open",
 "file": "file",
 "fileExtensions": {
+"cmake": "cmake",
+"dart": "dart",
 "asm": "assembly",
 "a51": "assembly",
 "inc": "assembly",
@@ -892,7 +906,24 @@
 "jsonl": "json",
 "ndjson": "json",
 "lua": "lua", 
-"cbl": "cbl", 
+"cbl": "cbl",
+"cob": "cbl", 
+"module.ts": "angular",
+"module.js": "angular",
+"ng-template": "angular",
+"component.ts": "angular",
+"component.js": "angular",
+"guard.ts": "angular",
+"guard.js": "angular",
+"service.ts": "angular",
+"service.js": "angular",
+"pipe.ts": "angular",
+"pipe.js": "angular",
+"filter.js": "angular",
+"directive.ts": "angular",
+"directive.js": "angular",
+"resolver.ts": "angular",
+"resolver.js": "angular",
 "php": "php", 
 "ts": "ts",
 "kt": "kt",
@@ -1068,6 +1099,8 @@
 "ics": "mail",
 },
 "languageIds": {
+"ng-template": "angular",
+"testOutput": "vs",
 "editorconfig": "editorconfig",
 "julia": "julia",
 "coffeescript": "coffeescript",
@@ -1154,6 +1187,19 @@
 "hxml": "haxe",
 },
 "fileNames": {
+"cmakelists.txt": "cmake",
+"cmakecache.txt": "cmake",
+"angular-cli.json": "angular",
+".angular-cli.json": "angular",
+"angular.json": "angular",
+"changelog": "changelog",
+"changelog.md": "changelog",
+"changelog.txt": "changelog",
+"changes": "changelog",
+"changes.md": "changelog",
+"changes.txt": "changelog",
+"change": "changelog",
+"changelogs": "changelog",
 ".bowerrc": "bower",
 "bower.json": "bower",
 ".editorconfig": "editorconfig",
@@ -1195,7 +1241,6 @@
 ".mailmap": "mail",
 "license":"info",
 "license.md":"info",
-"changelog.md":"info",
 "license.txt":"info",
 "package.json":"node",
 "package-lock.json":"node",
@@ -1209,10 +1254,6 @@
 "about.md": "info",
 "readme": "info",
 "credits": "info",
-"change": "info",
-"changes": "info",
-"changelogs": "info",
-"changelog": "info",
 "makefile": "cog",
 "settings": "cog",
 "1ct-icon-theme.json":"1ct",
