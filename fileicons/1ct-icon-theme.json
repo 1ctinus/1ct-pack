@@ -33,6 +33,33 @@
 "changelog": {
 "iconPath": "./../images/changelog.png"
 },
+"verilog": {
+"iconPath": "./../images/verilog.png"
+},
+"tcl": {
+"iconPath": "./../images/tcl.png"
+},
+"pascal": {
+"iconPath": "./../images/pascal.png"
+},
+"ocaml": {
+"iconPath": "./../images/ocaml.png"
+},
+"sml": {
+"iconPath": "./../images/sml.png"
+},
+"lisp": {
+"iconPath": "./../images/lisp.png"
+},
+"fortran": {
+"iconPath": "./../images/fortran.png"
+},
+"elixir": {
+"iconPath": "./../images/elixir.png"
+},
+"d": {
+"iconPath": "./../images/d.png"
+},
 "diff": {
 "iconPath": "./../images/diff.png"
 },
@@ -846,6 +873,39 @@
 "folderExpanded": "open",
 "file": "file",
 "fileExtensions": {
+"v": "verilog",
+"vhd": "verilog",
+"sv": "verilog",
+"svh": "verilog",
+"tcl": "tcl",
+"pas": "pascal",
+"ml": "ocaml",
+"mli": "ocaml",
+"cmx": "ocaml",
+"sml": "sml",
+"mlton": "sml",
+"mlb": "sml",
+"sig": "sml",
+"fun": "sml",
+"cm": "sml",
+"lex": "sml",
+"use": "sml",
+"grm": "sml",
+"lisp": "lisp",
+"lsp": "lisp",
+"cl": "lisp",
+"fast": "lisp",
+"f": "fortran",
+"f77": "fortran",
+"f90": "fortran",
+"f95": "fortran",
+"f03": "fortran",
+"f08": "fortran",
+"ex": "elixir",
+"exs": "elixir",
+"eex": "elixir",
+"leex": "elixir",
+"d": "d",
 "cmake": "cmake",
 "dart": "dart",
 "asm": "assembly",
@@ -1099,6 +1159,8 @@
 "ics": "mail",
 },
 "languageIds": {
+"sml": "sml",
+"elixir": "elixir",
 "ng-template": "angular",
 "testOutput": "vs",
 "editorconfig": "editorconfig",
