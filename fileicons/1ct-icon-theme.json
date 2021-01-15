@@ -252,9 +252,6 @@
 "gitignore": {
 "iconPath": "./../images/gitignore.png",
 },
-"rar": {
-"iconPath": "./../images/rar.png",
-},
 "yaml": {
 "iconPath": "./../images/yaml.png",
 },
@@ -1058,7 +1055,6 @@
 "exe":"exe",
 "yaml":"yaml",
 "as": "yaml",
-"rar":"rar",
 "sass":"sass",
 "scss":"sass",
 "vue":"vue",
