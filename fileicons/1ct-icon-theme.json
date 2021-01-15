@@ -33,6 +33,9 @@
 "changelog": {
 "iconPath": "./../images/changelog.png"
 },
+"hack": {
+"iconPath": "./../images/hack.png"
+},
 "verilog": {
 "iconPath": "./../images/verilog.png"
 },
@@ -1155,6 +1158,7 @@
 "ics": "mail",
 },
 "languageIds": {
+"hack": "hack",
 "sml": "sml",
 "elixir": "elixir",
 "ng-template": "angular",
@@ -1245,6 +1249,7 @@
 "hxml": "haxe",
 },
 "fileNames": {
+".hhconfig": "hack",
 "cmakelists.txt": "cmake",
 "cmakecache.txt": "cmake",
 "angular-cli.json": "angular",
