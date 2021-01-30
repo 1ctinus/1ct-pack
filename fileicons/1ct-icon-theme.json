@@ -33,6 +33,9 @@
 "changelog": {
 "iconPath": "./../images/changelog.png"
 },
+"hack": {
+"iconPath": "./../images/hack.png"
+},
 "verilog": {
 "iconPath": "./../images/verilog.png"
 },
@@ -254,9 +257,6 @@
 },
 "gitignore": {
 "iconPath": "./../images/gitignore.png",
-},
-"rar": {
-"iconPath": "./../images/rar.png",
 },
 "yaml": {
 "iconPath": "./../images/yaml.png",
@@ -1066,7 +1066,6 @@
 "exe":"exe",
 "yaml":"yaml",
 "as": "yaml",
-"rar":"rar",
 "sass":"sass",
 "scss":"sass",
 "vue":"vue",
@@ -1167,7 +1166,11 @@
 "ics": "mail",
 },
 "languageIds": {
+<<<<<<< HEAD
 "viml": "vim",
+=======
+"hack": "hack",
+>>>>>>> 932a29d3cac80e969cd26eb32305c651a0ed1e5c
 "sml": "sml",
 "elixir": "elixir",
 "ng-template": "angular",
@@ -1258,6 +1261,7 @@
 "hxml": "haxe",
 },
 "fileNames": {
+".hhconfig": "hack",
 "cmakelists.txt": "cmake",
 "cmakecache.txt": "cmake",
 "angular-cli.json": "angular",
