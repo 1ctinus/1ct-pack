@@ -48,6 +48,9 @@
 "sml": {
 "iconPath": "./../images/sml.png"
 },
+"vim": {
+"iconPath": "./../images/vim.png"
+},
 "lisp": {
 "iconPath": "./../images/lisp.png"
 },
@@ -873,6 +876,11 @@
 "folderExpanded": "open",
 "file": "file",
 "fileExtensions": {
+"vimrc": "vim",
+"gvimrc": "vim",
+"exrc": "vim",
+"vim": "vim",
+"viminfo": "vim",
 "v": "verilog",
 "vhd": "verilog",
 "sv": "verilog",
@@ -1159,6 +1167,7 @@
 "ics": "mail",
 },
 "languageIds": {
+"viml": "vim",
 "sml": "sml",
 "elixir": "elixir",
 "ng-template": "angular",
