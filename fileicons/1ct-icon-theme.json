@@ -33,6 +33,15 @@
 "changelog": {
 "iconPath": "./../images/changelog.png"
 },
+"test-jsx": {
+"iconPath": "./../images/test-jsx.png"
+},
+"test-js": {
+"iconPath": "./../images/test-js.png"
+},
+"test-ts": {
+"iconPath": "./../images/test-ts.png"
+},
 "hack": {
 "iconPath": "./../images/hack.png"
 },
@@ -1166,11 +1175,8 @@
 "ics": "mail",
 },
 "languageIds": {
-<<<<<<< HEAD
 "viml": "vim",
-=======
 "hack": "hack",
->>>>>>> 932a29d3cac80e969cd26eb32305c651a0ed1e5c
 "sml": "sml",
 "elixir": "elixir",
 "ng-template": "angular",
@@ -1261,6 +1267,20 @@
 "hxml": "haxe",
 },
 "fileNames": {
+"spec.ts": "test-ts",
+"e2e-spec.ts": "test-ts",
+"test.ts": "test-ts",
+"ts.snap": "test-ts",
+"spec.tsx": "test-jsx",
+"test.tsx": "test-jsx",
+"tsx.snap": "test-jsx",
+"spec.jsx": "test-jsx",
+"test.jsx": "test-jsx",
+"jsx.snap": "test-jsx",
+"spec.js": "test-js",
+"e2e-spec.js": "test-js",
+"test.js": "test-js",
+"js.snap": "test-js",
 ".hhconfig": "hack",
 "cmakelists.txt": "cmake",
 "cmakecache.txt": "cmake",
