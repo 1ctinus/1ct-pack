@@ -33,6 +33,9 @@
 "changelog": {
 "iconPath": "./../images/changelog.png"
 },
+"nix": {
+"iconPath": "./../images/nix.png"
+},
 "test-jsx": {
 "iconPath": "./../images/test-jsx.png"
 },
@@ -1100,6 +1103,7 @@
 "download":"download",
 "gitignore":"gitignore",
 "gitattributes":"git",
+"nix":"nix",
 "gitmodules":"git",
 "ico":"ico",
 "dll":"cog",
